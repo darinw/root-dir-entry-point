@@ -1,4 +1,4 @@
-import { getVersion } from '../shared/public-api';
+import { getVersion } from '@org/common/shared';
 
 export class SomeComponent {
   version = getVersion();

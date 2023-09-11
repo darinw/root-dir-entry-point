@@ -1,5 +1,5 @@
 {
-  "name": "my-lib",
+  "name": "@org/common",
   "version": "0.0.1",
   "peerDependencies": {
     "@angular/common": "^16.0.0",
